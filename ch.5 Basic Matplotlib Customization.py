@@ -1,4 +1,4 @@
-## CHANGING THE FIGURE SIZE
+
 import matplotlib
 import matplotlib.pyplot as plt
 import numpy as np
@@ -6,7 +6,7 @@ from datetime import datetime
 import pandas as pd
 import random
 
-
+## CHANGING THE FIGURE SIZE
 # Re-create the plot that couldn't fit very well into the figure.
 
 fig, (ax1, ax2, ax3, ax4) = plt.subplots(4)
