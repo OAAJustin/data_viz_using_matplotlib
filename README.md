@@ -1,1 +1,1 @@
-# data-visualization-in-python
+# data_viz_using_matplotlib
