@@ -834,7 +834,7 @@ plt.ylabel('Sales')
 plt.legend()
 plt.show()
 
-# There are two ways you can draw lines, using the vlines9) or axvline() functions of the PyPlot instance. You can also call methods on Axes obj.
+# There are two ways you can draw lines, using the vlines() or axvline() functions of the PyPlot instance. You can also call methods on Axes obj.
 
 fig, ax = plt.subplots(figsize = (8, 4))
 
