@@ -1175,7 +1175,7 @@ plt.show()
 
 ## DATASET : https://www.kaggle.com/datasets/tklimonova/gapminder-datacamp-2007
 
-dataframe = pd.read_csv('gapminder_full.csv', error_bad_lines = False)
+dataframe = pd.read_csv('gapminder_full.csv', error_bad_lines = False ) # error bad lines depricated
 print(dataframe)
 print(dataframe.isnull().values.any())
 
